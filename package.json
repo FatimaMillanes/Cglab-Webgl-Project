@@ -1,0 +1,21 @@
+{
+  "name": "cglab-webgl-project",
+  "version": "1.0.0",
+  "description": "Este es un proyecto para aprender Webgl 2.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Webgl",
+    "games",
+    "glsl",
+    "2d",
+    "3d"
+  ],
+  "author": "Fatima Millanes",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
